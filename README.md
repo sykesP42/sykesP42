@@ -8,17 +8,18 @@
 
 <div align="center">
 
-**Building for the web — writing code, shipping projects, and documenting the journey.**
+**CS undergrad @ GDUPT, in love with computing — always learning, exploring, and creating.**
 
-🔭 Running my self-hosted blog & CMS at [sykesp.com](https://sykesp.com)
+🔭 Researching neural rendering, procedural generation, and agent engineering — and where they meet AI
+🛠 I love building tools and sharing them
 
 </div>
 
 ## 🧭 About Me
 
 <!-- ✏️ Tweak the lines below to match what you're actually up to. -->
-- 🔭 Working on: a self-hosted blog with its own Node.js CMS, live at [sykesp.com](https://sykesp.com)
-- 🌱 Learning: CI/CD pipelines, server automation, and whatever the next deploy demands
+- 🔭 Building: tools around neural rendering, procedural generation, and agents — plus a self-hosted blog at [sykesp.com](https://sykesp.com)
+- 🌱 Learning: deep learning, computer graphics, and whatever the next project demands
 - 💬 Ask me about: self-hosting, Linux servers, nginx, blogging setups
 - ⚡ Fun fact: my blog deploy pipeline has survived a full server rebuild
 - 📫 Reach me: [sykesp.com](https://sykesp.com) · [GitHub](https://github.com/sykesP42)
