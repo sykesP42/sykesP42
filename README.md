@@ -30,10 +30,14 @@
 
 ## 📦 Featured Projects
 
+<!-- ✏️ Ordered by creation date, oldest first. Flip the rows if you prefer newest first. -->
 | Project | About | Stack |
 | --- | --- | --- |
-| [new-blog](https://github.com/sykesP42/new-blog) | My blog & CMS — Astro frontend with a self-built Node.js CMS, live at [sykesp.com](https://sykesp.com) | `Astro` `Node.js` `nginx` |
-| [study-notes](https://github.com/sykesP42/study-notes) | Study notes — keep learning | `Markdown` |
+| [orange](https://github.com/sykesP42/orange) | Blogger management platform — Vue 3 PWA with a Go backend: analytics, calendar, team workflow, and a Ctrl+K command palette | `Vue 3` `Go` `PWA` |
+| [AutoToon](https://github.com/sykesP42/AutoToon) | AI that maps reference images to MooaToon material parameters, enabling real-time cel-shading style switching in UE5 | `Python` `C++` `UE5` |
+| [uniLinker](https://github.com/sykesP42/uniLinker) | Cross-device LAN tool — auto-discovers nearby devices for one-click screen casting, file transfer, and remote collaboration | `C#` `Kotlin` `LAN` |
+| [RubyDevice](https://github.com/sykesP42/RubyDevice) | Modern Windows input device manager — view, manage, and control every keyboard, mouse, and touchpad connected to your PC | `C#` `Windows` |
+| [Rin_gdupt](https://github.com/sykesP42/Rin_gdupt) | Campus assistant for GDUPT students — read-only course schedule, class & check-in reminders, weather, and quick notes | `Kotlin` `Compose` `Android` |
 
 ## 📊 GitHub Stats
 
